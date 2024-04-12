@@ -230,7 +230,7 @@ Search for executables in [PATH](https://en.wikipedia.org/wiki/PATH_%28variable%
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>2024.0</string>
+	<string>2024.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/wheres-the-binary-workflow/</string>
 </dict>
