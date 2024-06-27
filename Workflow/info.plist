@@ -101,7 +101,7 @@ function dirContents(path) {
         undefined,
         $.NSDirectoryEnumerationSkipsHiddenFiles,
         undefined
-      ).js
+      ).js || []
   } catch { return [] }
 }
 
