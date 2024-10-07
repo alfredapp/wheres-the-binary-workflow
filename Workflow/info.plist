@@ -228,7 +228,7 @@ Search for executables in [PATH](https://en.wikipedia.org/wiki/PATH_%28variable%
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2024.2</string>
+	<string>2024.3</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/wheres-the-binary-workflow/</string>
 </dict>
